@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73b27e9f-f491-4c0f-ae34-ef9c6ab9dca6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettingsChallenge_09.2/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/DroidCafeWithSettings_92/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/androidTest/java/id/ac/poliban/mi/aldy/hellosharedprefs_091/hellosharedprefs_091/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/main/java/id/ac/poliban/mi/aldy/hellosharedprefs_091/hellosharedprefs_091/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/app/src/test/java/id/ac/poliban/mi/aldy/hellosharedprefs_091/hellosharedprefs_091/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HelloSharedPrefs_09.1/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/androidTest/java/id/ac/poliban/mi/aldy/homework_091/homework_091/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/main/java/id/ac/poliban/mi/aldy/homework_091/homework_091/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/app/src/test/java/id/ac/poliban/mi/aldy/homework_091/homework_091/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.1/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 13/HomeWork_09.2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 14/RoomWordsSample_10.1A/app/src/main/java/id/ac/poliban/mi/aldy/roomwordssample_101a/roomwordssample_101a_e020320107/WordListAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 14/RoomWordsSample_10.1A/app/src/main/java/id/ac/poliban/mi/aldy/roomwordssample_101a/roomwordssample_101a_e020320107/WordListAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/androidTest/java/id/ac/poliban/mi/va/sherli/dialogforalert_sherli/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/main/java/id/ac/poliban/mi/va/aldy/dialogforalert/dialogforalert_sherli/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DialogForAlert/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafe/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeChallenge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeHomework/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/OrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/activity_order.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/activity_order.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeinput/droidcafeinput/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInput/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/OrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/res/layout/content_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeinputchallenge/droidcafeinputchallenge/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeInputChallenge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/androidTest/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/main/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/OrderActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/main/res/menu/menu_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/app/src/test/java/id/ac/poliban/mi/va/aldy/droidcafeoptionmenu/droidcafeoptionmenu/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Minggu 6/DroidCafeOptionMenu/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CheckboxHomeWork/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../CheckboxHomeWork/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\acer\.android\avd\Pixel_6_Pro_API_33.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HWEyGWZGRjJaHUZu3YhzNwgLrA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "E:/College/Semester 5/Roman/DeveloperAndroid/Minggu 7/DemoSpinner",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Demo_Spinner.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Demo Spinner" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Demo Spinner" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73b27e9f-f491-4c0f-ae34-ef9c6ab9dca6" name="Changes" comment="" />
+      <created>1668392691580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668392691580</updated>
+    </task>
+    <servers />
+  </component>
+</project>
